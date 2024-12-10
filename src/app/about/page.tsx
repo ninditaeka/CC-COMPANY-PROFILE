@@ -2,7 +2,7 @@
 
 import Footer from "@/components/Footer";
 import NavBar from "@/components/Navbar";
-import { Card, Select } from "flowbite-react";
+import { Card } from "flowbite-react";
 import Image from "next/image";
 
 export default function About() {

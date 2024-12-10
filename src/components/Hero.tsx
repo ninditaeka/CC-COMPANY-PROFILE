@@ -149,9 +149,9 @@ export default function Hero() {
           <figure className="mx-auto max-w-screen-md text-center">
             <Blockquote>
               <p className="font-medium italic text-gray-900 mt-4 dark:text-white">
-                "Digital World Company's mapping services have revolutionized
+                Digital World Company`s mapping services have revolutionized
                 our decision-making with precise insights and innovative
-                solutions. Highly recommended!"
+                solutions. Highly recommended!
               </p>
             </Blockquote>
             <figcaption className="mt-6 flex items-center justify-center space-x-3">
@@ -170,10 +170,10 @@ export default function Hero() {
           <figure className="mx-auto max-w-screen-md text-center">
             <Blockquote>
               <p className="font-medium italic text-gray-900 mt-4 dark:text-white">
-                "Partnering with Digital Company has been transformative for our
+                Partnering with Digital Company has been transformative for our
                 operations. Their precise mapping solutions and expert team have
                 provided invaluable insights that have streamlined our projects
-                and enhanced our strategic planning!"
+                and enhanced our strategic planning!
               </p>
             </Blockquote>
             <figcaption className="mt-6 flex items-center justify-center space-x-3">

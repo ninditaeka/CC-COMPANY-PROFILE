@@ -5,7 +5,6 @@ import {
   Navbar,
 
 } from "flowbite-react";
-import { IoIosSearch } from "react-icons/io";
 
 export default function NavBar() {
   return (

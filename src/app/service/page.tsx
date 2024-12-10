@@ -20,7 +20,7 @@ export default function Service() {
           including land use and cover change, environmental monitoring, urban
           planning, and resource management. We utilize advanced techniques and
           tools to analyze spatial and temporal patterns, providing valuable
-          information that supports our clients' decision-making processes. By
+          information that supports our clients` decision-making processes. By
           leveraging sophisticated algorithms and cutting-edge technology, we
           deliver precise and actionable insights that enable our clients to
           understand and visualize complex geospatial phenomena. Our
@@ -35,7 +35,7 @@ export default function Service() {
           data collection, storage, maintenance, and integration. Our team is
           skilled in data cleaning, processing, and validation, adhering to the
           highest standards of data quality. Additionally, we provide solutions
-          for data security, backup, and recovery, ensuring that our clients'
+          for data security, backup, and recovery, ensuring that our clients`
           valuable geospatial information is safeguarded against any potential
           risks. Our modern data management practices enable seamless data
           sharing and collaboration, enhancing the overall efficiency and
@@ -57,10 +57,10 @@ export default function Service() {
             <figure className="mx-auto max-w-screen-md text-center">
               <Blockquote>
                 <p className="text-l font-medium italic text-gray-900 mt-4 dark:text-white">
-                  "Digital World Company's Geospatial Analysis and Data
+                  Digital World Company Geospatial Analysis and Data
                   Management services have been transformative, providing
                   precise insights and robust data management that optimized our
-                  operations"
+                  operations
                 </p>
               </Blockquote>
               <figcaption className="mt-6 flex items-center justify-center space-x-3">
@@ -80,9 +80,9 @@ export default function Service() {
             <figure className="mx-auto max-w-screen-md text-center">
               <Blockquote>
                 <p className="text-l font-medium italic text-gray-900 mt-4 dark:text-white">
-                  "Their expertise in geospatial analysis provided us with
+                  Their expertise in geospatial analysis provided us with
                   detailed and accurate insights that significantly improved our
-                  project outcomes. Highly recommended for their services"
+                  project outcomes. Highly recommended for their services
                 </p>
               </Blockquote>
               <figcaption className="mt-6 flex items-center justify-center space-x-3">
@@ -128,9 +128,9 @@ export default function Service() {
             <figure className="mx-auto max-w-screen-md text-center">
               <Blockquote>
                 <p className="text-l font-medium italic text-gray-900 mt-4 dark:text-white">
-                  "Digital World Company's Remote Sensing and Visualization
-                  services enhanced our project's accuracy with detailed
-                  insights and stunning visuals"
+                  Digital World Company`s Remote Sensing and Visualization
+                  services enhanced our project`s accuracy with detailed
+                  insights and stunning visuals
                 </p>
               </Blockquote>
               <figcaption className="mt-6 flex items-center justify-center space-x-3">
@@ -150,9 +150,9 @@ export default function Service() {
             <figure className="mx-auto max-w-screen-md text-center">
               <Blockquote>
                 <p className="text-l font-medium italic text-gray-900 mt-4 dark:text-white">
-                  "The team's expertise in remote sensing transformed our data
+                  The team`s expertise in remote sensing transformed our data
                   into clear, actionable insights. We highly recommend their
-                  services for top-tier geospatial solutions"
+                  services for top-tier geospatial solutions
                 </p>
               </Blockquote>
               <figcaption className="mt-6 flex items-center justify-center space-x-3">
@@ -199,10 +199,10 @@ export default function Service() {
             <figure className="mx-auto max-w-screen-md text-center">
               <Blockquote>
                 <p className="text-l font-medium italic text-gray-900 mt-4 dark:text-white">
-                  "Their services have been instrumental in improving our
+                  Their services have been instrumental in improving our
                   operational efficiency, ensuring that we have the critical
                   information we need to act swiftly and make well-informed
-                  decisions"
+                  decisions
                 </p>
               </Blockquote>
               <figcaption className="mt-6 flex items-center justify-center space-x-3">
@@ -222,10 +222,10 @@ export default function Service() {
             <figure className="mx-auto max-w-screen-md text-center">
               <Blockquote>
                 <p className="text-l font-medium italic text-gray-900 mt-4 dark:text-white">
-                  " Their ability to gather accurate and precise data directly
+                  Their ability to gather accurate and precise data directly
                   from the field, combined with continuous monitoring and
                   immediate data analysis, has provided us with reliable,
-                  up-to-date information. "
+                  up-to-date information.
                 </p>
               </Blockquote>
               <figcaption className="mt-6 flex items-center justify-center space-x-3">
@@ -259,7 +259,7 @@ export default function Service() {
           specific needs. Enhanced interactive visualizations transform data
           into intuitive maps and dashboards, and robust data security measures
           protect sensitive information. These features empower organizations to
-          maximize their geospatial data's potential, driving innovation and
+          maximize their geospatial data`s potential, driving innovation and
           operational excellence.
         </p>
 
@@ -269,9 +269,9 @@ export default function Service() {
             <figure className="mx-auto max-w-screen-md text-center">
               <Blockquote>
                 <p className="text-l font-medium italic text-gray-900 mt-4 dark:text-white">
-                  "The customizable, real-time processing and advanced
-                  visualizations of Digital World Company's AI-Powered Platform
-                  have significantly improved our operations."
+                  The customizable, real-time processing and advanced
+                  visualizations of Digital World Company`s AI-Powered Platform
+                  have significantly improved our operations.
                 </p>
               </Blockquote>
               <figcaption className="mt-6 flex items-center justify-center space-x-3">
@@ -291,9 +291,9 @@ export default function Service() {
             <figure className="mx-auto max-w-screen-md text-center">
               <Blockquote>
                 <p className="text-l font-medium italic text-gray-900 mt-4 dark:text-white">
-                  "Digital World Company's AI-Powered Platform provided us with
+                  Digital World Company`s AI-Powered Platform provided us with
                   deeper insights and accurate forecasts, enhancing our
-                  decision-making process become faster and point out"
+                  decision-making process become faster and point out
                 </p>
               </Blockquote>
               <figcaption className="mt-6 flex items-center justify-center space-x-3">
@@ -316,7 +316,7 @@ export default function Service() {
           exclusive deal comes with a range of benefits designed to provide
           exceptional value and enhance your experience. Enjoy high-quality
           service at a reduced cost, with all the features and support you
-          expect from us. Don't miss out on this opportunity to maximize your
+          expect from us. Don`t miss out on this opportunity to maximize your
           investment while enjoying top-notch solutions tailored to your needs
         </h1>
         <div className=" flex justify-center gap-8 mt-4 ">

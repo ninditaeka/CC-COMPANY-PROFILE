@@ -7,43 +7,6 @@ import Image from "next/image";
 import { useEffect, useState } from "react";
 
 export default function Teams() {
-  const members = [
-    {
-      id: "member1",
-      image: "/9.jpg",
-      name: "Fanya Freeze",
-      email: "fany.freeze@gmail.com",
-      phone: "081-234=987-678",
-    },
-    {
-      id: "member2",
-      image: "/10.jpg",
-      name: "Sarah Tang",
-      email: "sarah.ting@gmail.com",
-      phone: "081-346-234-123",
-    },
-    {
-      id: "member3",
-      image: "/11.jpg",
-      name: "Yaman Hadi",
-      email: "yaman.hadi@gmail.com",
-      phone: "082-109-502-345",
-    },
-    {
-      id: "member4",
-      image: "/12.jpg",
-      name: "Mike Harmony",
-      email: "mike.harmony@gmail.com",
-      phone: "081-230-538-039",
-    },
-    {
-      id: "member5",
-      image: "/13.jpg",
-      name: "Budi Jay",
-      email: "budi.jay@gmail.com",
-      phone: "081-324-345-000",
-    },
-  ];
 
   const [teams, setTeams] = useState([]);
 
