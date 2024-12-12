@@ -57,10 +57,9 @@ export default function Service() {
             <figure className="mx-auto max-w-screen-md text-center">
               <Blockquote>
                 <p className="text-l font-medium italic text-gray-900 mt-4 dark:text-white">
-                  Digital World Company Geospatial Analysis and Data
-                  Management services have been transformative, providing
-                  precise insights and robust data management that optimized our
-                  operations
+                  Digital World Company Geospatial Analysis and Data Management
+                  services have been transformative, providing precise insights
+                  and robust data management that optimized our operations
                 </p>
               </Blockquote>
               <figcaption className="mt-6 flex items-center justify-center space-x-3">
